@@ -6,7 +6,7 @@ function App() {
   return (
     <>
     <Navbar />
-    <div className='container'>
+    <div className='container align-middle'>
       <Shop />
     </div>
     </>
